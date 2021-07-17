@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Animated-Sky-in-React/static/css/main.9bea7898.chunk.css",
+    "main.js": "/Animated-Sky-in-React/static/js/main.825eb95e.chunk.js",
+    "main.js.map": "/Animated-Sky-in-React/static/js/main.825eb95e.chunk.js.map",
+    "runtime-main.js": "/Animated-Sky-in-React/static/js/runtime-main.99bcccea.js",
+    "runtime-main.js.map": "/Animated-Sky-in-React/static/js/runtime-main.99bcccea.js.map",
+    "static/js/2.0a30ee1b.chunk.js": "/Animated-Sky-in-React/static/js/2.0a30ee1b.chunk.js",
+    "static/js/2.0a30ee1b.chunk.js.map": "/Animated-Sky-in-React/static/js/2.0a30ee1b.chunk.js.map",
+    "static/js/3.5a5dafa4.chunk.js": "/Animated-Sky-in-React/static/js/3.5a5dafa4.chunk.js",
+    "static/js/3.5a5dafa4.chunk.js.map": "/Animated-Sky-in-React/static/js/3.5a5dafa4.chunk.js.map",
+    "index.html": "/Animated-Sky-in-React/index.html",
+    "static/css/main.9bea7898.chunk.css.map": "/Animated-Sky-in-React/static/css/main.9bea7898.chunk.css.map",
+    "static/js/2.0a30ee1b.chunk.js.LICENSE.txt": "/Animated-Sky-in-React/static/js/2.0a30ee1b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99bcccea.js",
+    "static/js/2.0a30ee1b.chunk.js",
+    "static/css/main.9bea7898.chunk.css",
+    "static/js/main.825eb95e.chunk.js"
+  ]
+}
